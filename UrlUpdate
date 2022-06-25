@@ -220,11 +220,11 @@
 
       "FLAG": "claro",
 
-      "Payload": "GET wss://ipv4.icanhazip.com/ HTTP/1.1[crlf]Host: br1.famillynet.xyz[crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET wss://communitystaging.kaltura.com/ HTTP/1.1[crlf]Host: br1.famillynet.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]]",
 
-      "TlsIP": "ipv4.icanhazip.com",
+      "TlsIP": "communitystaging.kaltura.com",
 
-      "ProxyIP": "ipv4.icanhazip.com",
+      "ProxyIP": "communitystaging.kaltura.com",
 
       "ProxyPort": "",
 
