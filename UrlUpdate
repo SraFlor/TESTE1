@@ -129,7 +129,7 @@
     {
       "Name": "🔴️CLARO [SSL 1]",
       "FLAG": "claro",
-      "Payload": "GET wss://4.icanhazip.com/ HTTP/1.1[crlf]Host: brasil.clientexters.xyz[crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET wss://4.icanhazip.com/ HTTP/1.1[crlf]Host: br1.famillynet.xyz[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "4.icanhazip.com",
       "TlsIP": "4.icanhazip.com",
       "ProxyIP": "",
@@ -139,7 +139,7 @@
     {
       "Name": "🔴CLARO [SSL 2]",
       "FLAG": "claro",
-      "Payload": "GET wss://ipv4.icanhazip.com/ HTTP/1.1[crlf]Host: brasil.clientexters.xyz[crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET wss://ipv4.icanhazip.com/ HTTP/1.1[crlf]Host: br1.famillynet.xyz[crlf]Upgrade: websocket[crlf][crlf]",
       "TlsIP": "ipv4.icanhazip.com",
       "ProxyIP": "ipv4.icanhazip.com",
       "ProxyPort": "",
